@@ -37,7 +37,7 @@ Built with a modern, responsive interface, DMI delivers real-time analysis resul
 
 | Repository                                                                                                                   | Description                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [DMI-Digital-Media-Integrity-Platform-backend](https://github.com/Spectrewolf8/DMI-Digital-Media-Integrity-Platform-backend) | Backend API server powering the detection and analysis services |
+| [DMI-Deep-Media-Inspection-Platform-backend](https://github.com/Spectrewolf8/DMI-Deep-Media-Inspection-Platform-backend) | Backend API server powering the detection and analysis services |
 
 ## Features
 
@@ -94,7 +94,7 @@ Support the platform's continued development and help maintain free access to de
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Spectrewolf8/DMI-Digital-Media-Integrity-Platform-NextJS-Frontend.git
+   git clone DMI-Deep-Media-Inspection-Platform-NextJS-Frontend.git
    cd DMI-Digital-Media-Integrity-Platform-NextJS-Frontend
    ```
 
@@ -228,10 +228,6 @@ DMI-Digital-Media-Integrity-Platform-NextJS-Frontend/
 - **[react-dropzone](https://react-dropzone.js.org/)** - File upload with drag-and-drop
 - **[class-variance-authority](https://cva.style/)** - Component variant management
 - **[clsx](https://github.com/lukeed/clsx)** & **[tailwind-merge](https://github.com/dcastil/tailwind-merge)** - Conditional class merging
-
-## Topics
-
-`deepfake-detection` `ai-detection` `media-integrity` `next-js` `react` `typescript` `tailwind-css` `machine-learning` `computer-vision` `image-analysis` `digital-forensics` `error-level-analysis` `gradcam` `media-verification` `synthetic-media` `content-authenticity`
 
 ## License
 
