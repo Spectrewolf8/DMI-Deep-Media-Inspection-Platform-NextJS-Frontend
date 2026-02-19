@@ -95,7 +95,7 @@ Support the platform's continued development and help maintain free access to de
 
    ```bash
    git clone DMI-Deep-Media-Inspection-Platform-NextJS-Frontend.git
-   cd DMI-Digital-Media-Integrity-Platform-NextJS-Frontend
+   cd DMI-Deep-Media-Inspection-Platform-NextJS-Frontend
    ```
 
 2. **Install dependencies**
@@ -138,7 +138,7 @@ Support the platform's continued development and help maintain free access to de
 ## Project Structure
 
 ```
-DMI-Digital-Media-Integrity-Platform-NextJS-Frontend/
+DMI-Deep-Media-Inspection-Platform-NextJS-Frontend/
 ├── components/                  # Reusable UI components
 │   ├── ui/                      # shadcn/ui components (27 components)
 │   │   ├── alert-dialog.tsx
