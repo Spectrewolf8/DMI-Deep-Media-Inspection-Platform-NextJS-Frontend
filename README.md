@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Banner.jpg" alt="DMI - Digital Media Integrity Platform" width="100%" />
+  <img src="Banner.jpg" alt="DMI - Deep Media Inspection Platform" width="100%" />
 </p>
 
-<h1 align="center">DMI - Digital Media Integrity Platform</h1>
+<h1 align="center">DMI - Deep Media Inspection Platform</h1>
 
 <p align="center">
   <strong>AI-Powered Deepfake and Synthetic Media Detection Platform</strong>
@@ -29,7 +29,7 @@
 
 ## About
 
-**DMI (Digital Media Integrity)** is a comprehensive, AI-powered web platform designed to combat the growing threat of deepfakes and AI-generated synthetic media. The platform provides users with a suite of advanced detection and analysis tools, empowering individuals, journalists, researchers, and organizations to verify the authenticity of digital media content.
+**DMI (Deep Media Inspection)** is a comprehensive, AI-powered web platform designed to combat the growing threat of deepfakes and AI-generated synthetic media. The platform provides users with a suite of advanced detection and analysis tools, empowering individuals, journalists, researchers, and organizations to verify the authenticity of digital media content.
 
 Built with a modern, responsive interface, DMI delivers real-time analysis results with detailed confidence scores, visual explanations, and multi-model detection capabilities. The platform also fosters a community-driven approach to media integrity through forums, educational resources, and a public deepfake archive.
 
@@ -67,7 +67,7 @@ Access a curated, searchable collection of known deepfakes and synthetic media s
 
 ### Community Forum
 
-Participate in discussions, share findings, and collaborate with other users in the community forum. Create threads, search topics, and contribute to the collective knowledge base on digital media integrity.
+Participate in discussions, share findings, and collaborate with other users in the community forum. Create threads, search topics, and contribute to the collective knowledge base on Deep Media Inspection.
 
 ### Knowledge Base
 
